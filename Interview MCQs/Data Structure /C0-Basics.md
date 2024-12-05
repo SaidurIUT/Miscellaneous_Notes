@@ -284,7 +284,21 @@ The cord, also known as the rope data structure, is used for efficiently storing
 
 ### 23. What will be the output of the following program?
 
-![s1](img/s1.png)
+```
+main()
+{
+   char str[]="san foundry";
+   int len = strlen(str);
+   int i;
+
+   for(i=0;i<len;i++)
+        push(str[i]);  // pushes an element into stack
+
+   for(i=0;i<len;i++)
+      pop();  //pops an element from the stack
+}
+
+```
 
 a) yrdnuof nas
 b) foundry nas  
