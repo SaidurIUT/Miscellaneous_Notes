@@ -501,9 +501,9 @@ public class array
 }
 ```
 
-a) 4 and 2
-b) 2 and 4
-c) 5 and 3
+a) 4 and 2  
+b) 2 and 4  
+c) 5 and 3  
 d) 3 and 5
 
 **Answer:** d
@@ -514,9 +514,9 @@ Array indexing starts from 0.
 
 ### 37. In simple chaining, what data structure is appropriate?
 
-a) Doubly linked list
-b) Circular linked list
-c) Singly linked list
+a) Doubly linked list  
+b) Circular linked list  
+c) Singly linked list  
 d) Binary trees
 
 **Answer:** a
