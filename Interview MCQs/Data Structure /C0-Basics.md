@@ -286,6 +286,7 @@ The cord, also known as the rope data structure, is used for efficiently storing
 
 ```
 main()
+
 {
    char str[]="san foundry";
    int len = strlen(str);
