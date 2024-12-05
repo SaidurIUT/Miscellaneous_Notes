@@ -1,4 +1,4 @@
-## Chapter - 0: Basics of Data Structure
+# Chapter - 0: Basics of Data Structure
 
 ---
 
